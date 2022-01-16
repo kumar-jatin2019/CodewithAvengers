@@ -1,0 +1,4 @@
+export const GET_EMPLOYEES_DATA = "GET_EMPLOYEES_DATA"
+// export const GET_POST = "GET_POST";
+// export const ADD_AIRLINES ="ADD_AIRLINES"
+// export const VIEW_PASENGERS ="VIEW_PASSENGERS"
